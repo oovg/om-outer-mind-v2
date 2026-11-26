@@ -1,0 +1,22 @@
+# Rebuilds the four sites whenever the outer mind's main branch changes (a merged pull request,
+# or om ship --force). The deploy hook URLs live in one repository secret, VERCEL_DEPLOY_HOOKS,
+# separated by spaces or new lines. A commit whose message contains [skip deploy] is skipped:
+# om ship --force uses that when it also pushes om-sites, whose push already redeploys the sites.
+name: Deploy sites
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  deploy:
+    if: ${{ !contains(github.event.head_commit.message, '[skip deploy]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger the Vercel deploy hooks
+        env:
+          HOOKS: ${{ secrets.VERCEL_DEPLOY_HOOKS }}
+        run: |
+          if [ -z "$HOOKS" ]; then echo "Add the VERCEL_DEPLOY_HOOKS secret (Settings → Secrets and variables → Actions)."; exit 1; fi
+          n=0
+          for h in $HOOKS; do curl -fsS -X POST "$h" > /dev/null; n=$((n+1)); done
+          echo "Triggered $n deploy hook(s)."
