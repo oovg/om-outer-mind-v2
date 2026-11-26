@@ -10,7 +10,7 @@ You work **after** the airlock. A person has already cleaned, screened and appro
 2. **Never add facts.** Use only what is in the landed item and what already exists in `public/`. If a required field can't be filled from those, leave it empty, put `# TODO` beside it, and list it in your report.
 3. **OM's own words are verbatim.** Notebooks, sections, concepts, project indexes, pages, quarterly intros and site settings are published exactly as written: don't rewrite, reorder, shorten or "improve" them. You place them and fill fields. Transmissions and events are also verbatim in their body; you only write their `summary`.
 4. **Never re-add removed text.** Plain-text words that were links stay plain text unless the target now exists in `public/`.
-5. **Work on a branch** named `landing/<date>`; never commit to `main`. If this folder isn't a git repository, don't create one: just write the files and say so in the report.
+5. **Don't commit, push or switch branches.** Leave your changes in the working tree. The person reviews them and ships them with `om ship`, which commits them, opens pull requests or pushes, and redeploys the sites.
 6. **Content only, never presentation.** Write plain markdown and fields. No HTML tags, `class` or `style` attributes, colours, sizes, alignment or layout hints, even if a landed note seems to want them (report it instead). How things look is decided in `om-sites`.
 7. Don't touch landed items you are not processing, and never edit `CLAUDE.md` or `schemas.md`.
 
@@ -164,7 +164,6 @@ Suggest a new notebook only when at least three concepts clearly belong together
 When done, give the person:
 - one line per item: slug → entries made, any TODO fields, and anything you were unsure about;
 - for a quarterly, the digest's item count per project;
-- the branch name;
 - a one-line pointer to `suggestions/notebooks.md` if it changed.
 
-They will preview and merge. Your receipts are only read on their machine by the airlock's own code, which checks them before it changes anything; you never write to the inner mind.
+They will preview and ship. Your receipts are only read on their machine by the airlock's own code, which checks them before it changes anything; you never write to the inner mind.
