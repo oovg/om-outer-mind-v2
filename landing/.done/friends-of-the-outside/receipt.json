@@ -1,0 +1,7 @@
+{
+  "entries": [
+    "public/media/friends-of-the-outside.md",
+    "public/media/friends-of-the-outside-edition.md"
+  ],
+  "notes": "mediashop: true, so an edition was added.; removed presentation attribute {.title-page} from the title heading"
+}
