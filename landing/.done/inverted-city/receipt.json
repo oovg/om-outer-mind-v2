@@ -1,6 +1,9 @@
 {
   "entries": [
-    "public/media/inverted-city.md"
+    "public/media/inverted-city.md",
+    "public/media/inverted-city-edition.md",
+    "public/assets/4000ca9ef3da9a78.jpg",
+    "public/assets/abfaca19490f13bc.pdf"
   ],
-  "notes": ""
+  "notes": "update; previous_entries was empty, matched by slug and earlier receipt. mediashop: true, so an edition was added with the supplied cover and PDF. Summary reset to the note's verbatim text; updated set. Body and essays unchanged."
 }

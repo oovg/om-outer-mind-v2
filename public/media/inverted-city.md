@@ -3,7 +3,8 @@ type: collection
 title: "Inverted City"
 slug: inverted-city
 date: 2025-02-28
-summary: "A collection of writings expressing inverted perspectives of the city."
+updated: 2025-02-28
+summary: "a collection of writings expressing inverted perspectives of the city"
 tags:
   - "theme/open-protocols"
   - "theme/distributed-agency"
@@ -20,6 +21,7 @@ essays:
   - "inverted-city-life-underground"
   - "inverted-city-recipes-network-weaving"
   - "inverted-city-local-clarity-global-precedent"
+in_mediashop: inverted-city-edition
 ---
 
 # The Inverted City
