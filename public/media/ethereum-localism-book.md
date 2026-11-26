@@ -3,7 +3,8 @@ type: collection
 title: "Ethereum Localism"
 slug: ethereum-localism-book
 date: 2025-02-21
-summary: "An anthology produced by Open Machine in collaboration with Gitcoin and Allo Capital exploring Ethereum-based coordination and localist governance."
+updated: 2025-02-21
+summary: "Index for the Ethereum Localism book, an anthology produced by Open Machine in collaboration with Gitcoin and Allo Capital exploring Ethereum-based coordination and localist governance."
 tags:
   - "theme/open-protocols"
 author:
@@ -26,6 +27,7 @@ essays:
   - "ethereum-localism-information-tsunamis"
   - "ethereum-localism-mycofi"
   - "ethereum-localism-regen-hub"
+in_mediashop: ethereum-localism-book-edition
 ---
 
 View and Download as a PDF: [Ethereum Localism book](https://qxvqdga4v2uhlcgh7bvl5m6rukrhmesy6uzingqov76jw5miy3ka.arweave.net/hesBmByuqHWIx_hqvrPRoqJ2Elj1MoaaDq_8m3WIxtQ)

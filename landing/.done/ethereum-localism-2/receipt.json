@@ -1,6 +1,9 @@
 {
   "entries": [
-    "public/media/ethereum-localism-book.md"
+    "public/media/ethereum-localism-book.md",
+    "public/media/ethereum-localism-book-edition.md",
+    "public/assets/0b4b9dcdaafc0de0.png",
+    "public/assets/84612409293ab6d1.pdf"
   ],
-  "notes": "essays ordered by matching the numbered (unlinked) table of contents to the essays' numbered titles"
+  "notes": "update; previous_entries was empty, matched by earlier receipt. mediashop: true, so an edition was added with the supplied cover and PDF. Summary reset to the note's verbatim text; updated set. Essays unchanged."
 }

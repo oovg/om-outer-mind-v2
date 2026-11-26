@@ -1,7 +1,9 @@
 {
   "entries": [
     "public/media/friends-of-the-outside.md",
-    "public/media/friends-of-the-outside-edition.md"
+    "public/media/friends-of-the-outside-edition.md",
+    "public/assets/45550c79c7cc0f69.jpg",
+    "public/assets/6faeaad36746e5fe.pdf"
   ],
-  "notes": "mediashop: true, so an edition was added.; removed presentation attribute {.title-page} from the title heading"
+  "notes": "update; previous_entries was empty, matched by slug. Body unchanged apart from removing presentation attribute {.title-page} again. Custom cover and PDF added to the edition."
 }

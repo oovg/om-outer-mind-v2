@@ -1,4 +1,4 @@
-# Suggestions (2026-11-25)
+# Suggestions (2026-11-26)
 
 ## New notebooks worth starting
 ### The Protocol Underground
@@ -35,6 +35,7 @@
 - "gnosis": used in [[toward-a-participatory-digital-gnosis-on-distributed-metaprogramming-communities]], [[an-invitation-to-the-mauve-zone-project]], [[toward-a-nomad-web]]. Worth a concept note?
 - "assembly theory": used in [[ethereum-the-earth-computer]], [[assembly-in-ethereum-workshop]], [[immanence-and-emanation-three-premises-on-the-eve-of-the-singularity]]. Worth a concept note?
 - "polycentricity": used in [[ethereum-localism-open-civics]], [[ethereum-localism-introduction]], [[inverted-city-local-clarity-global-precedent]], [[undercapital-2]]. Worth a concept note?
+- "smooth and striated space": used in [[toward-a-nomad-web]], [[inverted-city-the-state-the-city-and-the-network]], and the [[haptic-vision]] concept. Worth a concept note?
 - "Ethereum is Posthuman": named in the Related Research of most concepts, but not published. Worth publishing?
 
 ## Untagged work
