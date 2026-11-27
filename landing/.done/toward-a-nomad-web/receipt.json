@@ -1,1 +1,0 @@
-{ "entries": ["public/media/toward-a-nomad-web.md", "public/media/toward-a-nomad-web-edition.md"], "notes": "Update. mediashop: true, so the edition stays. The body and summary match the landed note word for word. cover moved to the edition, author copied there. handoff previous_entries was empty, so the existing entries were matched by slug. No project." }
