@@ -2,7 +2,7 @@
 type: transmission
 title: "Toward a Nomad Web"
 slug: toward-a-nomad-web
-date: 2026-11-25
+date: 2026-08-13
 summary: "Grounded in Deleuze & Guattari's concept ot smooth and striated space, the essay covers a brief history of the internet and how it has oscillated between these two types of spaces. It traces its lineage from genesis as a smooth protocol web, its striation as it became a platform-State, to the modern resmoothing as protocol response. It diagnoses the vectors of enclosure and lays out a strategy for how the web can once again become a smooth space, a nomad web."
 author:
   - "Ven Gist"

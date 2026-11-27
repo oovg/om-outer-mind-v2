@@ -1,9 +1,9 @@
-# Suggestions (2026-11-26)
+# Suggestions (2026-11-27)
 
 ## New notebooks worth starting
 ### The Protocol Underground
 - Core concepts: [[protocol-underground]], [[open-protocols]], [[high-agency]], [[consent-culture]], [[aesthetics]], [[overgrounding]], [[formalization-without-standardization]], [[memeticism]]
-- Drawn from: [[sketches-toward-a-theory-of-the-protocol-underground]], [[the-continuing-story-of-the-open-machine]], [[an-open-letter-to-the-ethereum-community-on-the-topic-of-the-protocol-underground]], [[2026-the-rise-of-the-protocol]]
+- Drawn from: [[sketches-toward-a-theory-of-the-protocol-underground]], [[the-continuing-story-of-the-open-machine]], [[an-open-letter-to-the-ethereum-community-on-the-topic-of-the-protocol-underground]], [[2026-the-rise-of-the-protocol]], [[toward-a-nomad-web]] (protocol web, enclosure, the protocol response)
 - Why now: these essays keep returning to the same underground values and to the problem of scaling them without standardizing them; the concepts already exist and list each other as related.
 
 ### Extitutions
@@ -36,11 +36,13 @@
 - "assembly theory": used in [[ethereum-the-earth-computer]], [[assembly-in-ethereum-workshop]], [[immanence-and-emanation-three-premises-on-the-eve-of-the-singularity]]. Worth a concept note?
 - "polycentricity": used in [[ethereum-localism-open-civics]], [[ethereum-localism-introduction]], [[inverted-city-local-clarity-global-precedent]], [[undercapital-2]]. Worth a concept note?
 - "smooth and striated space": used in [[toward-a-nomad-web]], [[inverted-city-the-state-the-city-and-the-network]], and the [[haptic-vision]] concept. Worth a concept note?
+- "nomad" / "nomad publics": central to [[toward-a-nomad-web]]; "nomad" also used in [[ethereum-localism-the-cosmo-local-plan]], [[undercapital-redux]], [[undercapital-2]]. Could go with "smooth and striated space" above.
 - "Ethereum is Posthuman": named in the Related Research of most concepts, but not published. Worth publishing?
 
 ## Untagged work
 - [[an-invitation-to-the-mauve-zone-project]]: looks like part of [[mauve-zone-project]].
 - [[intelligence-is-immanent]]: looks like part of [[intelligence-is-immanent-project]] (also listed in [[mindgraphs]]'s Outputs).
+- [[toward-a-nomad-web]]: no project; it shares ground with the Open Protocol Research Group pieces below.
 - [[ethereum-extitutional-constitution]]: may belong with the extitution projects ([[extitutions-rise]] or [[an-anthology-of-extitutional-theory-and-practice]]).
 - [[ethereum-the-earth-computer]] and [[assembly-in-ethereum-workshop]]: share assembly theory and the poster; several pieces suggest a new project, "Ethereum, the Earth Computer".
 - [[sketches-toward-a-theory-of-the-protocol-underground]], [[undercapital-2]], [[undercapital-redux]], [[speculative-p2p-and-the-urban-protocol-underground]], [[inverted-city-the-invisible-protocols-that-animate-the-city]]: Open Protocol Research Group work; several pieces suggest a new project, "Open Protocol Research Group".

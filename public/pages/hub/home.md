@@ -9,6 +9,8 @@ path: /
 
 ## Hero
 
+![om_substrates-album-new](assets/4682df5c455f03b4.png)
+
 **The Open Machine** is a cultural research studio that invokes unlikely alliances across technology and culture to advance ethical, open forms of coordination. We conduct research to produce media, events, and frameworks that capture and project the patterns that emerge.
 
 Our work draws on the concept of **immanence** -- the inherent creative capacity of fields or relational systems to generate structure and novelty without central command - in order to understand and navigate the emerging technology landscape. We study immanent social technologies (open-source practices, distributed coordination, and consent-based collaboration) alongside digital technologies, seeking out technical strategies in both that harmonize and expand rather than enclose and capture the creative capacities of nature.

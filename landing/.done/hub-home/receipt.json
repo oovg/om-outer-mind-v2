@@ -1,6 +1,1 @@
-{
-  "entries": [
-    "public/pages/hub/home.md"
-  ],
-  "notes": ""
-}
+{ "entries": ["public/pages/hub/home.md"], "notes": "Update to the hub home page (site: hub, path: /). The page in public/ already matches the landed note word for word (all ## headings and slot headings kept, hero image assets/4682df5c455f03b4.png). handoff previous_entries was empty, so the existing entry was matched by route." }
