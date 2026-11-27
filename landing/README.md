@@ -1,6 +1,7 @@
 # landing/
 
-Items that have just come through the airlock: cleaned, screened by the local model, and approved by a person.
-They are public-safe but not yet shaped into entries. Claude processes them (see `../CLAUDE.md`).
+Items that have just come through the airlock: cleaned, checked by the local model, and approved by a person. They're safe to publish but not yet shaped into entries.
 
-Sites never read this folder. (Not the same as `outbox/`, which is reserved for private sends.)
+`om land` has Claude shape each one into `public/` (following `../CLAUDE.md`), then moves it to `.done/<item>/` with a receipt. The airlock reads those receipts for the write-back, after checking each one.
+
+Sites never read this folder. (`outbox/`, if it ever appears, is reserved for private sends: not this.)
