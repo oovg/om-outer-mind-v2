@@ -1,0 +1,14 @@
+{
+  "slug": "hub-home",
+  "kind": "update",
+  "route": {
+    "type": "page",
+    "site": "hub",
+    "path": "/"
+  },
+  "framework": false,
+  "mediashop": false,
+  "previous_entry": null,
+  "previous_entries": [],
+  "approved": "2026-11-27"
+}

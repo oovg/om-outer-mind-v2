@@ -1,0 +1,12 @@
+{
+  "slug": "toward-a-nomad-web",
+  "kind": "update",
+  "route": {
+    "type": "transmission"
+  },
+  "framework": false,
+  "mediashop": true,
+  "previous_entry": null,
+  "previous_entries": [],
+  "approved": "2026-11-27"
+}
