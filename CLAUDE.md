@@ -36,7 +36,7 @@ suggestions/notebooks.md      your suggestions (not read by any site)
 - `route`: what the note is, decided by its folder in the inner mind (always set);
 - `framework`: for notebooks, `true` if it's a framework;
 - `mediashop`: for transmissions and collections, `true` if it also goes in the media shop;
-- `previous_entries`: for updates and retractions, the entries made from this note before.
+- `previous_entries`: for updates and retractions, the entries made from this note before. If it's empty, find them yourself: first the `entries` in `landing/.done/<slug>/receipt.json` (the receipt from this note's last landing), then any entry in `public/` with the same slug and its `-edition` shop item. Say in the report where you found them.
 
 **The route decides; you don't.** Follow this table exactly:
 
@@ -89,7 +89,7 @@ When a new concept relates to an existing one, add the new slug to the existing 
 
 **Updates.** Edit each of `previous_entries` in place with the new text. Keep their slugs and any fields the new note doesn't change. If `mediashop` changed, add or remove the media entry and `in_mediashop` to match (to remove one, list it under `remove` in the receipt). If `cover`, `files` or `formats` changed, update the media entry to match (removing any the note no longer has). If `framework` changed, update it.
 
-**Retractions.** List each of `previous_entries` in the receipt (`"retracted": true`); `om land` deletes them. Remove or unlink any links to them in other entries, including `related`, `sources`, a notebook's `sections` and a book's `essays`.
+**Retractions.** A retraction is the person's own instruction, given by setting `publish: false`: carry it out without asking. List each of `previous_entries` (found as above if the list is empty) in the receipt (`"retracted": true`), including a shop item made from it; `om land` deletes them. Remove or unlink any links to them in other entries, including `related`, `sources`, a notebook's `sections` and a book's `essays`.
 
 ## Quarterly digests
 

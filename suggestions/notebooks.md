@@ -8,7 +8,7 @@
 
 ### Extitutions
 - Core concepts: [[extitution]], [[extitutional-space]], [[substrate]], [[dao]], [[mutualism]], [[field-ontology]]
-- Drawn from: [[ethereum-extitutional-constitution]], [[speculative-p2p-and-the-urban-protocol-underground]], [[friends-of-the-outside]]
+- Drawn from: [[speculative-p2p-and-the-urban-protocol-underground]], [[friends-of-the-outside]]
 - Why now: three projects ([[an-anthology-of-extitutional-theory-and-practice]], [[extitutions-rise]], [[extitutions-week-at-feytopia]]) build on these terms, but nothing yet sets them out in order.
 
 ### Undercapital and the Virtual
@@ -29,7 +29,7 @@
 
 ## Terms without a concept entry
 - "immanence": used in [[home]], [[intelligence-is-immanent]], [[immanence-and-emanation-three-premises-on-the-eve-of-the-singularity]], [[the-continuing-story-of-the-open-machine]], [[inverted-city-concrete-pluralism]]. The hub's central term has no concept note.
-- "stigmergy": used in [[ethereum-localism-open-civics]], [[ethereum-extitutional-constitution]], [[the-continuing-story-of-the-open-machine]], [[ethereum-localism-rooted-society-manifesto]]. Worth a concept note?
+- "stigmergy": used in [[ethereum-localism-open-civics]], [[ethereum-localism-introduction]], [[the-continuing-story-of-the-open-machine]], [[ethereum-localism-rooted-society-manifesto]]. Worth a concept note?
 - "cosmo-localism": used in [[ethereum-localism-the-cosmo-local-plan]], [[ethereum-localism-introduction]], [[ethereum-localism-shift-in-perspective]], [[inverted-city-recipes-cosmolocal-convening]]. Worth a concept note?
 - "cognitive sovereignty": used in [[cognitive-security]], [[an-invitation-to-the-mauve-zone-project]], [[the-continuing-story-of-the-open-machine]]. Worth a concept note?
 - "gnosis": used in [[toward-a-participatory-digital-gnosis-on-distributed-metaprogramming-communities]], [[an-invitation-to-the-mauve-zone-project]], [[toward-a-nomad-web]]. Worth a concept note?
@@ -43,6 +43,5 @@
 - [[an-invitation-to-the-mauve-zone-project]]: looks like part of [[mauve-zone-project]].
 - [[intelligence-is-immanent]]: looks like part of [[intelligence-is-immanent-project]] (also listed in [[mindgraphs]]'s Outputs).
 - [[toward-a-nomad-web]]: no project; it shares ground with the Open Protocol Research Group pieces below.
-- [[ethereum-extitutional-constitution]]: may belong with the extitution projects ([[extitutions-rise]] or [[an-anthology-of-extitutional-theory-and-practice]]).
 - [[ethereum-the-earth-computer]] and [[assembly-in-ethereum-workshop]]: share assembly theory and the poster; several pieces suggest a new project, "Ethereum, the Earth Computer".
 - [[sketches-toward-a-theory-of-the-protocol-underground]], [[undercapital-2]], [[undercapital-redux]], [[speculative-p2p-and-the-urban-protocol-underground]], [[inverted-city-the-invisible-protocols-that-animate-the-city]]: Open Protocol Research Group work; several pieces suggest a new project, "Open Protocol Research Group".

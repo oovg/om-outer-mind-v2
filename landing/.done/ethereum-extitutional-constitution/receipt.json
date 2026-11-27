@@ -1,6 +1,7 @@
 {
+  "retracted": true,
   "entries": [
     "public/media/ethereum-extitutional-constitution.md"
   ],
-  "notes": ""
+  "notes": "Retraction. previous_entries was empty; entry found in landing/.done/ethereum-extitutional-constitution/receipt.json and confirmed in public/. No -edition shop item exists. No other entry in public/ links to it."
 }
